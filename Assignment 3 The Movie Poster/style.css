@@ -1,0 +1,196 @@
+/*  Nicolas Millan
+    HTML,CSS - Assigment #3 The Movie Poster
+    03/25/2023
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.Poster{
+    position: relative;
+}
+.Poster img { 
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+}
+.Text{
+    font-family: 'Rubik', sans-serif;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: #fabc1d;
+    top: 14vh;
+    left: 35%;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 0 auto;
+}
+.Text2{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: black;
+    top: 21vh;
+    left: 38%;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 0 auto;
+    z-index: 100;
+}
+.Sus2{
+    font-size: 200px;
+}
+.Text3{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: black;
+    top: 21vh;
+    left: 28%;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 140px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 0 auto;
+}
+.Text4{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: black;
+    top: 42vh;
+    left: 29%;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 0 auto;
+}
+.Text5{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color:  #fabc1d;
+    top: 204vh;
+    left: 13%;
+    font-family: 'Economica', sans-serif;
+    font-size: 15px;
+    font-style:unset;
+    font-weight: bold;
+    margin: 0;
+}
+.Text6{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: #fabc1d;
+    top: 203vh;
+    left: 18%;
+    font-family: 'Economica', sans-serif;
+    font-size: 42px;
+    font-style:unset;
+    font-weight: bold;
+    margin: 0;   
+}
+.Text7{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: #fabc1d;
+    top: 204vh;
+    left: 36%;
+    font-family: 'Economica', sans-serif;
+    font-size: 15px;
+    font-style:unset;
+    font-weight: bold;
+    margin: 0;
+}
+.Text8{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color: #fabc1d;
+    top: 203vh;
+    left: 41%;
+    font-family: 'Economica', sans-serif;
+    font-size: 42px;
+    font-style:unset;
+    font-weight: bold;
+    margin: 0;   
+}
+.Text9{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color:  #fabc1d;
+    top: 204vh;
+    left: 59%;
+    font-family: 'Economica', sans-serif;
+    font-size: 15px;
+    font-style:unset;
+    font-weight: bold;
+    margin: 0;
+}
+.Text10{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color:  #fabc1d;
+    top: 203vh;
+    left: 63%;
+    font-family: 'Economica', sans-serif;
+    font-size: 42px;
+    font-style:unset;
+    font-weight: bold;
+    margin: 0;   
+}
+.Text11{
+    font-family: 'Rubik', sans-serif;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    color:  #fabc1d;
+    top: 210.5vh;
+    left: 39%;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 0 auto;
+    
+}
+h1{
+    font: optional;
+    top: 230vh;
+    font-size: smaller;
+    position: absolute;
+}
+/*.Poster img { 
+    background-image: url('./img/Wolfy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 26%;
+    right: 25%;
+}
+.Text {
+    color: blue;
+    text-align: center;
+    border: solid 1px #000;
+    right: 20px;
+    margin-top: 20px;
+}*/
