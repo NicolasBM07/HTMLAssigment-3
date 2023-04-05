@@ -170,12 +170,17 @@
     margin: 0 auto;
     
 }
-h1{
+.Link{
     font: optional;
-    top: 230vh;
+    top: 232vh;
     font-size: smaller;
+    left: 33%;
+    font-size: 30px;
     position: absolute;
+    font-family: 'Barlow Condensed', sans-serif;
+
 }
+
 /*.Poster img { 
     background-image: url('./img/Wolfy.jpg');
     background-size: cover;
